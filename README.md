@@ -1,4 +1,14 @@
-# customer-support-agent
+---
+title: Shipping Support Agent
+emoji: 🚚
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
+# shipping-agent
 
 Agent generated with `agents-cli` version `0.5.0`
 
